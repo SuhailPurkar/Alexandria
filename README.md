@@ -1,6 +1,6 @@
 #Alexandria
 
-A simple app to help you find, share and store books. ISBN-13 information pulled from the [Google Books APIs](https://developers.google.com/apis-explorer).  Made during [ Udacity Advanced Android course.](https://www.udacity.com/course/ud855).
+A simple app to help you find, share and store books. ISBN-13 information pulled from the [Google Books APIs](https://developers.google.com/apis-explorer).  Made during [ Udacity Advanced Android course](https://www.udacity.com/course/ud855).
 
 
 
